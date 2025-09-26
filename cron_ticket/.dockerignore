@@ -1,8 +1,7 @@
 node_modules/
-Dcokerfile
-
-
-
+Dockerfile
 .git
 .gitignore
-.dockeringnore
+.dockerignore
+README.md
+*.md
